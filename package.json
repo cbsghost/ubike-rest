@@ -8,7 +8,6 @@
     "dependencies": {
         "request": "~2.81.0",
         "express": "~4.15.2",
-        "apicache": "~0.8.4",
         "offline-geocoder": "~0.0.1",
         "debug": "~2.6.5"
     }
